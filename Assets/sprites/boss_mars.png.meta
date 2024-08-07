@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 4feb0204b6bd2474192bc5072c92d689
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 90908255468296330
+    second: boss_mars_0
+  - first:
+      213: 506101890364898620
+    second: boss_mars_1
+  - first:
+      213: 7708174174835920411
+    second: boss_mars_2
+  - first:
+      213: 3283419914549896316
+    second: boss_mars_3
+  - first:
+      213: -5522964835969537419
+    second: boss_mars_4
+  - first:
+      213: -8007622761824971257
+    second: boss_mars_5
+  - first:
+      213: 7775146589015403066
+    second: boss_mars_6
+  - first:
+      213: 2076239105323019186
+    second: boss_mars_7
+  - first:
+      213: 3278352153628571054
+    second: boss_mars_8
+  - first:
+      213: 2860665324484371561
+    second: boss_mars_9
+  - first:
+      213: 4903307493058434481
+    second: boss_mars_10
+  - first:
+      213: 2371543081972127277
+    second: boss_mars_11
+  - first:
+      213: 6717656748605658944
+    second: boss_mars_0
+  - first:
+      213: -6511644688540379022
+    second: boss_mars_1
+  - first:
+      213: 605273449718548221
+    second: boss_mars_2
+  - first:
+      213: 3713616525118278801
+    second: boss_mars_3
+  - first:
+      213: -2186192870395400715
+    second: boss_mars_4
+  - first:
+      213: -8394205270095975668
+    second: boss_mars_5
+  - first:
+      213: -4523840720491251712
+    second: boss_mars_6
+  - first:
+      213: 2254469498182865431
+    second: boss_mars_7
+  - first:
+      213: 5751427886851171084
+    second: boss_mars_8
+  - first:
+      213: -7178213000086632131
+    second: boss_mars_9
+  - first:
+      213: -3039824019412384509
+    second: boss_mars_10
+  - first:
+      213: -1005174525188625991
+    second: boss_mars_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_mars_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04755af9839e93d50800000000000000
+      internalID: 6717656748605658944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_mars_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ddfbe7adf1a5a0800000000000000
+      internalID: -6511644688540379022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_mars_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60372eefc566800800000000000000
+      internalID: 605273449718548221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
